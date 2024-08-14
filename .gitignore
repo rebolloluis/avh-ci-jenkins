@@ -68,3 +68,5 @@ out
 
 # Misc
 .DS_Store
+Project.avh.log
+Project/RTE/_debug_avh/RTE_Components.h

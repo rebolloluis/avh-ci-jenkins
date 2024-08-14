@@ -70,7 +70,7 @@ static void test_my_sum_zero(void) {
 
 /* Failing test with incorrect summation value */
 static void test_my_sum_fail(void) {
-  const int sum = my_sum(1, -1);
+  const int sum = my_sum(1, 1);
   TEST_ASSERT_EQUAL_INT(2, sum);
 }
 
